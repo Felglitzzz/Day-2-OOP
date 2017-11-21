@@ -125,12 +125,8 @@ class Woman extends Human {
         }
       }
     }
-    
-
 }
-//     let felicia = new Man ('felicia', 24, 'african', 'married', 'female');
-//     console.log(felicia.marryNow());
-//     console.log(felicia.getName());
-// // module.exports = {
-// //     Human, Man, Woman
-// // };
+
+
+export default {Human, Man, Woman};
+
